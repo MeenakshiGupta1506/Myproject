@@ -1,0 +1,174 @@
+
+
+
+
+  b.icon {
+	display:none;
+}
+
+
+@media screen and (max-width: 1147px) {
+	
+	
+	
+   
+   .dropdown-content1 li a.active{
+	   
+	   background-color: #4CAF50;
+     }
+   
+     .dropdown-content1 {
+        display: none;
+        position: absolute;
+		margin-top:50px;
+		z-index: 1;
+	 }
+   
+     .dropdown1 {
+         float: left;
+         overflow: hidden;
+		 
+        }
+		
+		.dropdown-content1 .li{
+			float:none;
+	   border-right:1px solid #bbb;
+	
+		}
+		
+		#href1 {
+    display: block;
+    color: white;
+    text-align: center;
+	font-size:18px;
+    padding: 15px 70px;
+    text-decoration: none;
+}
+		
+		
+		.lia{
+			
+			background-color:#333;
+			float: none;
+    display: block;
+    text-align: center;
+	color: white;
+   /* text-align: center;*/
+	font-size:18px;
+    padding: 15px 62px;
+	
+    text-decoration: none;
+		}
+		
+		.show {
+      display: block;
+      }
+   
+   
+   b {
+    float: left;
+    
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: 20px;
+	position: relative;
+    
+   }
+   
+   .li {
+    float: left;
+    border-right:1px solid #bbb;
+	
+   }
+   
+    b:hover{
+    background-color: #111;
+   }
+   
+   .active {
+    
+	display: block;
+    color: white;
+    text-align: center;
+	font-size:18px;
+    padding: 15px 70px;
+    text-decoration: none;
+  } 
+  
+   b.icon {
+    float: left;
+    display: block;
+	cursor:pointer;
+  }
+}
+
+
+.ul {
+    list-style-type: none;
+    margin-bottom: 40px;
+    padding:0;
+    overflow: hidden;
+    background-color:#333;
+}
+
+
+
+
+// li:last-child {
+  //  border-right: none;
+ // } 
+
+ @media screen and (min-width: 1148px) {
+	 
+	 .dropdown-content1 {
+         float: left;
+	 }
+	 
+.lia {
+    display: block;
+    color: white;
+    text-align: center;
+	font-size:18px;
+    padding: 15px 70px;
+    text-decoration: none;
+}
+
+#lia {
+    display: block;
+    color: white;
+    text-align: center;
+	font-size:18px;
+    padding: 15px 70px;
+    text-decoration: none;
+}
+
+#href1 {
+    display: block;
+    color: white;
+    text-align: center;
+	font-size:18px;
+    padding: 15px 70px;
+    text-decoration: none;
+}
+
+.li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+ }
+
+.lia:hover:not(.active) {
+    background-color: #111;
+	color:white;
+}
+
+.active {
+    background-color: #4CAF50;
+	
+}
+
+
+

@@ -1,0 +1,1068 @@
+
+@media screen and (max-width: 389px)
+{
+	#messagebtn{
+		
+		width:100px;
+		height:40px;
+		float:right;
+		
+		position:relative;
+		cursor:pointer;
+		background-color:#d35400;
+	    padding:5px;
+	    color:white;
+	    text-align:center;
+	    border-radius:10px;
+	    font-size:18px;
+	    font-weight:bold;
+	    
+		bottom:30px;
+		left:25px;
+		
+	}
+	
+	#messagename{
+		
+		position:relative;
+		bottom:15px;
+		right:70px;
+		font-size:17px;
+	}
+}
+
+@media screen and (max-width: 924px) and (min-width: 390px)
+{
+	#messagebtn{
+		
+		width:100px;
+		height:40px;
+		float:right;
+		
+		position:relative;
+		cursor:pointer;
+		background-color:#d35400;
+	    padding:5px;
+	    color:white;
+	    text-align:center;
+	    border-radius:10px;
+	    font-size:18px;
+	    font-weight:bold;
+	    margin-bottom:20px;
+		bottom:20px;
+		
+		
+	}
+	
+	#messagename{
+		
+		position:relative;
+		bottom:15px;
+		right:50px;
+		font-size:21px;
+	}
+}
+
+@media screen and (min-width: 925px)
+{
+	#frame{
+		
+		word-wrap: break-word;
+		padding:8px;
+		margin-left:80px;
+		margin-bottom:30px;
+		height:150px;
+		width:82%;
+		border:solid 2px #d35400;
+		overflow:auto;
+	}
+	
+	#chat2{
+		
+		margin-left:80px;
+		float:left;
+		border:2px solid #4CAF50;
+		width:70%;
+		height:75px;
+	}
+	
+	#messagename{
+		
+		position:relative;
+		bottom:13px;
+		
+	}
+	
+	#messagebtn{
+		
+		width:100px;
+		height:40px;
+		float:right;
+		margin-right:50px;
+		position:relative;
+		bottom:20px;
+		cursor:pointer;
+		background-color:#d35400;
+	    padding:5px;
+	    color:white;
+	    text-align:center;
+	    border-radius:10px;
+	    font-size:18px;
+	    font-weight:bold;
+	    margin-bottom:20px;
+		
+		
+		
+	}
+}
+
+@media screen and (max-width: 924px)
+{
+	#frame{
+		
+		word-wrap: break-word;
+		padding:8px;
+		
+		margin-bottom:30px;
+		height:150px;
+		width:82%;
+		border:solid 2px #d35400;
+		overflow:auto;
+	}
+	
+	#chat2{
+		
+		
+		float:left;
+		border:2px solid #4CAF50;
+		width:70%;
+		height:75px;
+	}
+	
+	
+}
+
+@media screen and (min-width: 735px)
+{
+	#settingslabel
+	{
+		/*position:relative;
+		right:25%;*/
+	}
+	
+	#settingstext
+	{
+		background-color:lightblue;
+		/*position:relative;
+		right:25%;*/
+		width:200px;
+	}
+	
+	#settingsbtn
+	{
+		margin-top:10px;
+	
+	    padding:5px;
+	    color:white;
+	
+	
+	    text-align:center;
+	    border-radius:10px;
+	    font-size:18px;
+	    font-weight:bold;
+	    margin-bottom:20px;
+		background-color:green;
+		width:90px;
+		height:35px;
+		/*position:relative;
+		right:25%;*/
+		cursor:pointer;
+	}
+}
+
+@media screen and (max-width: 734px)
+{
+	
+	
+	#settingstext
+	{
+		background-color:lightblue;
+		
+		width:200px;
+	}
+	
+	#settingsbtn
+	{
+		margin-top:10px;
+	
+	    padding:5px;
+	    color:white;
+	
+	
+	    text-align:center;
+	    border-radius:10px;
+	    font-size:18px;
+	    font-weight:bold;
+	    margin-bottom:20px;
+		background-color:green;
+		width:90px;
+		height:35px;
+		
+		cursor:pointer;
+	}
+	
+}
+
+
+
+@media screen and (min-width: 830px)
+{
+	#homepagetext{
+		
+		width:60%;
+		height:25px;
+		margin-left:150px;
+	}
+} 
+
+@media screen and (min-width: 650px)
+{
+	#bookposter{
+		
+		width:50%;
+		height:300px;
+		float:left;
+	}
+	
+	#introtext{
+		
+		margin-left:52%;
+	}
+}
+
+@media screen and (max-width: 649px)
+{
+	#bookposter{
+		
+		width:100%;
+		height:300px;
+		
+	}
+}
+
+@media screen and (max-width: 919px)
+{
+	.column {
+           float: left;
+           width: 95%;
+           padding: 10px;
+   }
+}
+
+@media screen and (min-width: 920px)
+{
+   .column {
+     float: left;
+     width: 98%;
+     padding: 10px;
+}
+
+/* Clear floats after the columns */
+   .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+#main-wrapper{
+	
+	width:500px;
+	margin:0 auto;
+	
+	margin-bottom:30px;
+	background:#e9ebee;
+	padding:10px;
+	border-radius:10px;
+	border: 5px solid #34495e;
+}
+
+.myform{
+	
+	width:450px;
+	margin:0 auto;
+	
+}
+
+@media screen and (max-width: 910px)
+{
+	#pricerange{
+		
+		width:20%;
+		height:40px;
+	}
+}
+
+@media screen and (min-width: 911px) {
+	
+	#pricerange{
+		
+		width:10%;
+		height:40px;
+	}
+}
+
+@media screen and (min-width: 676px) and  (max-width: 829px){
+    
+	#homepagetext {
+	
+	  width:60%;
+	  height:29px;
+	  margin-left:80px;  
+    }
+ }
+ 
+ @media screen and (max-width: 459px) {
+	 
+	 .regwrapper{
+		 
+		 width:70%;
+		/* margin:0 auto;*/
+	     margin-top:30px;
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+ }
+ 
+ @media screen and (max-width: 419px) {
+	 
+	 .indexwrapper{
+		 
+		 width:90%;
+		/* margin:0 auto;*/
+	     
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+	 
+	 
+	 
+	 #indextext{
+		 
+		 width:60%;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     
+	     padding:5px;
+		 
+	 }
+	 
+	 #regtext{
+		 
+		 width:60%;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     margin-left:35px;
+	     padding:5px;
+		 
+	 }
+	 #login_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	height:50px;
+	width:60%;
+	border-radius:10px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+  }
+
+  #register_btn{
+	
+	margin-top:10px;
+	background-color:#c0392b;
+	padding:5px;
+	border-radius:10px;
+	height:50px;
+	color:white;
+	width:60%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+  }
+  
+  #signup_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	border-radius:10px;
+	color:white;
+	width:60%;
+	text-align:center;
+	height:50px;
+	font-size:18px;
+	font-weight:bold;
+	margin-left:35px;
+}
+
+ }
+ 
+ @media screen and (max-width: 480px) and (min-width: 460px){
+	 
+	 .regwrapper{
+		 
+		 width:80%;
+		 margin:0 auto;
+	     margin-top:60px;
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+ }
+ 
+ @media screen and (max-width: 480px) and (min-width: 420px){
+	 
+	 .indexwrapper{
+		 
+		 width:90%;
+		 margin:0 auto;
+	     margin-top:60px;
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+	 
+	 
+	 
+	 #indextext{
+		 
+		 width:70%;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     
+	     padding:5px;
+		 
+	 }
+	 
+	 #regtext{
+		 
+		 width:70%;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     margin-left:30px;
+	     padding:5px;
+		 
+	 }
+	 
+	 #login_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	height:50px;
+	width:80%;
+	border-radius:10px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+  }
+
+  #register_btn{
+	
+	margin-top:10px;
+	background-color:#c0392b;
+	padding:5px;
+	border-radius:10px;
+	height:50px;
+	color:white;
+	width:80%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+  }
+  
+  #signup_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	border-radius:10px;
+	color:white;
+	width:80%;
+	text-align:center;
+	height:50px;
+	font-size:18px;
+	font-weight:bold;
+	margin-left:20px;
+}
+
+	 
+ }
+ 
+ @media screen and (max-width: 559px) and (min-width: 481px){
+	 
+	 .indexwrapper{
+		 
+		 width:90%;
+		 margin:0 auto;
+	     margin-top:60px;
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+	 
+	 .regwrapper{
+		 
+		 width:90%;
+		 margin:0 auto;
+	     margin-top:60px;
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+	 
+	 #indextext{
+		 
+		 width:80%;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	      
+	     padding:5px;
+		 
+	 }
+	 
+	 #regtext{
+		 
+		 width:80%;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	      
+	     padding:5px;
+		 
+	 }
+	 
+	 #login_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	height:50px;
+	width:90%;
+	border-radius:10px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+  }
+
+   #register_btn{
+	
+	margin-top:10px;
+	background-color:#c0392b;
+	padding:5px;
+	border-radius:10px;
+	height:50px;
+	color:white;
+	width:90%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+  }
+  
+  #signup_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	border-radius:10px;
+	color:white;
+	width:90%;
+	text-align:center;
+	height:50px;
+	font-size:18px;
+	font-weight:bold;
+ }
+
+	 
+ }
+ 
+ @media screen and (max-width: 660px) and (min-width: 560px) {
+	 
+	 .regwrapper{
+		 
+		 width:98%;
+		 margin:0 auto;
+	     margin-top:60px;
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+ }
+
+ @media screen and (max-width: 635px) and (min-width: 560px) {
+	 
+	 .indexwrapper{
+		 
+		 width:500px;
+		 margin:0 auto;
+	     margin-top:60px;
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+	 
+	 
+	 
+	 #indextext{
+		 
+		 width:400px;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     margin-left:20px; 
+	     padding:5px;
+		 
+	 }
+	 
+	 #regtext{
+		 
+		 width:400px;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     margin-left:20px; 
+	     padding:5px;
+		 
+	 }
+	 
+	 #login_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	height:50px;
+	width:100%;
+	border-radius:10px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+   }
+
+  #register_btn{
+	
+	margin-top:10px;
+	background-color:#c0392b;
+	padding:5px;
+	border-radius:10px;
+	height:50px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+   }
+   
+   #signup_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	border-radius:10px;
+	color:white;
+	width:100%;
+	text-align:center;
+	height:50px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+	 
+ }
+ 
+ @media screen and (min-width: 661px)
+ {
+	 .regwrapper{
+		 
+		 width:500px;
+		 margin:0 auto;
+	     
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+	 
+ }
+ 
+ @media screen and (min-width: 636px)
+ {
+	 .indexwrapper{
+		 
+		 width:500px;
+		 margin:0 auto;
+	     
+	     margin-bottom:30px;
+	     background:#e9ebee;
+	     padding:10px;
+	     border-radius:10px;
+	     border: 5px solid #34495e;
+	 }
+	 
+	 
+	 #indextext{
+		 
+		 width:400px;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     margin-left:20px; 
+	     padding:5px;
+		 
+	 }
+	 
+	 #regtext{
+		 
+		 width:400px;
+	     height:25px;
+	     border-radius:10px;
+	     margin:0 auto; 
+	     margin-left:20px; 
+	     padding:5px;
+		 
+	 }
+	 
+	 #login_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	height:50px;
+	width:100%;
+	border-radius:10px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+    }
+
+   #register_btn{
+	
+	margin-top:10px;
+	background-color:#c0392b;
+	padding:5px;
+	border-radius:10px;
+	height:50px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+   }
+   
+   #signup_btn{
+	
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	border-radius:10px;
+	color:white;
+	width:100%;
+	text-align:center;
+	height:50px;
+	font-size:18px;
+	font-weight:bold;
+  }
+
+ }
+ 
+@media screen and (max-width: 635px) {
+	
+	#homepagetext {
+	
+	width:85%;
+	height:25px;
+	
+}
+
+.adprevwrap{
+	
+	margin-top:200px;
+}
+
+#main-wrapper{
+	
+	width:500px;
+	margin:0 auto;
+	
+	margin-bottom:30px;
+	background:#e9ebee;
+	padding:10px;
+	border-radius:10px;
+	border: 5px solid #34495e;
+}
+
+.sticky{
+	
+	   float:left;
+	   margin-left:16px;
+	  /* position: -webkit-sticky;
+       position: sticky; */
+	   position:relative;
+       top: 0;
+  }
+  
+  
+	
+}
+
+
+@media screen and (max-width: 692px) and (min-width: 636px){
+	
+	.sticky1{
+	  
+	  
+	  margin-top:10px;
+    }
+	.sticky{
+	
+	   float:left;
+	   margin-left:2%;
+	   margin-top:22px;
+	 /*  position: -webkit-sticky;
+       position: sticky;    */
+	   position:relative;
+       top: 0;
+   }
+}
+
+@media screen and (max-width: 771px) and (min-width: 693px){
+	
+	
+	.sticky1{
+	  
+	  margin-left:3px;
+	  margin-top:10px;
+    }
+		.sticky{
+	
+	   float:left;
+	   margin-left:10%;
+	   margin-top:22px;
+	 /*  position: -webkit-sticky;
+       position: sticky;    */
+	   position:relative;
+       top: 0;
+  }
+}
+
+
+/*@media screen and (max-width: 856px) and (min-width: 755px){  */
+	@media screen and (max-width: 875px) and (min-width: 772px){ 
+	
+	.sticky1{
+	  
+	  margin-left:38px;
+	  margin-top:10px;
+    }
+		.sticky{
+	
+	   float:left;
+	   margin-left:15%;
+	   margin-top:22px;
+	 /*  position: -webkit-sticky;
+       position: sticky;    */
+	   position:relative;
+       top: 0;
+  }
+}
+
+/* @media screen and (max-width: 941px) and (min-width: 855px){ for login*/
+@media screen and (max-width: 961px) and (min-width: 876px){
+	
+	.sticky1{
+	  
+	  margin-left:50px;
+	  margin-top:10px;
+    }
+	
+	 	.sticky{
+	
+	   float:left;
+	   margin-left:24%;
+	   margin-top:22px;
+	 /*  position: -webkit-sticky;
+       position: sticky;    */
+	   position:relative;
+       top: 0;
+  }
+	
+}
+
+   /*@media screen and (max-width: 1149px) and (min-width: 942px){  for login */
+@media screen and (max-width: 1149px) and (min-width: 962px){
+	
+	.sticky1{
+	  
+	  margin-left:60px;
+	  margin-top:10px;
+    }
+	
+	   	.sticky{
+	
+	   float:left;
+	   margin-left:30%;
+	   margin-top:22px;
+	 /*  position: -webkit-sticky;
+       position: sticky;    */
+	   position:relative;
+       top: 0;
+  }
+}
+
+
+@media screen and (max-width: 1250px) and (min-width: 1148px) {
+	
+	.sticky1{
+	  
+	  margin-left:60px;
+	  margin-top:10px;
+  }
+	
+	.sticky{
+	
+	   float:left;
+	   margin-left:20%;
+	   margin-top:18px;
+	 /*  position: -webkit-sticky;
+       position: sticky;    */
+	   position:relative;
+       top: 0;
+  }
+	
+}
+
+@media screen and (min-width: 1250px) {
+.sticky{
+	
+	   float:left;
+	   margin-left:26.7%;
+	   margin-top:18px;
+	 /*  position: -webkit-sticky;
+       position: sticky;    */
+	   position:relative;
+       top: 0;
+  }
+  
+  .sticky1{
+	  
+	  margin-left:60px;
+	  margin-top:10px;
+  }
+}
+
+
+
+
+.inputvalues{
+	
+	width:430px;
+	height:25px;
+	border-radius:10px;
+	margin:0 auto; 
+	margin-left:20px; 
+	padding:5px;
+}
+
+.inputvaluesadsub{
+
+    width:430px;
+	
+	border-radius:10px;
+	margin:0 auto; 
+	margin-left:20px; 
+	padding:5px;
+}
+
+
+
+
+#back_btn{
+	
+	margin-top:10px;
+	background-color:#d35400;
+	padding:5px;
+	color:white;
+	width:30%;
+	height:50px;
+	text-align:center;
+	border-radius:10px;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+
+#chat_btn{
+	
+	
+	background-color:#d35400;
+	padding:5px;
+	color:white;
+	width:30%;
+	height:50px;
+	text-align:center;
+	border-radius:10px;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+
+#logout_btn{
+	
+	margin-top:10px;
+	background-color:#27ae60;
+	padding:5px;
+	height:50px;
+	color:white;
+	border-radius:10px;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
